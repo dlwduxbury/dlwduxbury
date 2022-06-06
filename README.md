@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dlwduxbury
-- 👀 I’m interested in PowerShell, T-SQL, C#, Azure Bicep, Azure ARM, JavaScript, CSS, HTML, Bash, Python
+- 👀 I’m interested in PowerShell, T-SQL, C#, AWS, Azure Bicep, Azure ARM, JavaScript, CSS, HTML, Bash, Python
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on DevOps Pipelines
 
